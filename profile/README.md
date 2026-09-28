@@ -4,7 +4,7 @@
 
 > Engineering intelligent embedded systems, connected platforms, and next-generation digital solutions.
 
-<img src="https://github.com/ChendyTronics/.github/blob/626f41cbe20df7e86b802fcb659db6d8dcdff00f/profile/githubBanner.png"  alt="ChendyTronics Banner"/>
+<img src="https://github.com/ChendyTronics/.github/blob/cac8018574db618950b1dbeaeb06b6dc2769d826/profile/githubBanner.png"  alt="ChendyTronics Banner"/>
 
 <br><br>
 
