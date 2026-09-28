@@ -141,7 +141,7 @@ We are open to:
 
 <div align="center">
 
-<img src="https://github.com/ChendyTronics-Company/.github/blob/994d7e832ae11303555ff48a2706092ca122c310/profile/footer.png"  alt="ChendyTronics Logo"/>
+<img src="https://github.com/ChendyTronics/.github/blob/13b5f6356c9bb10d10aed8c761174456f952aa87/profile/github-footer.png"  alt="ChendyTronics Logo"/>
 
 
 
