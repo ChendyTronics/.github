@@ -1,6 +1,6 @@
 <div align="center">
 
-# CHENDY-TRONICS
+# CHENDYTRONICS
 
 > Engineering intelligent embedded systems, connected platforms, and next-generation digital solutions.
 
